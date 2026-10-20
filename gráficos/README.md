@@ -1,1 +1,1 @@
-
+Gráficos generados

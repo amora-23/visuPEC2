@@ -1,0 +1,37 @@
+﻿Kingdom,Phylum,Class,Order,Family,Genus,Scientific.Name
+Animalia,Annelida,Clitellata,Opisthopora,Limbricidae,Lumbricus Linnaeus,Lumbricina
+Animalia,Arthropoda,Arachnida, Araneae,Theridiidae,Steatoda,Steatoda grossa
+Animalia,Arthropoda,Arachnida,Araneae,Araneidae,Trichonephila,Trichonephila clavata
+Animalia,Arthropoda,Insecta,Blattodea,Blattidae,Periplaneta,Periplaneta americana
+Animalia,Arthropoda,Insecta,Coleoptera,Scarabaeidae,Popillia,Popillia japonica
+Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Aglais,Aglais io
+Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pieris,Pieris rapae
+Animalia,Arthropoda,Insecta,Orthoptera,Acrididae,Schistocerca,Schistocerca gregaria
+Animalia,Arthropoda,Malacostraca,Decapoda,Cancridae,Cancer,Cancer productus
+Animalia,Arthropoda,Malacostraca,Isopoda,Armadillidiidae,Armadillidium,Armadillidium vulgare
+Animalia,Chordata,Actinopterygii,Beryciformes,Holocentridae,Holocentrus,Holocentrus adscensionis
+Animalia,Chordata,Actinopterygii,Syngnathiformes,Syngnathidae,Phycodurus,Phycodurus eques
+Animalia,Chordata,Amphibia,Anura,Telmatobiidae,Telmatobius,Telmatobius culeus
+Animalia,Chordata,Aves,Passeriformes,Corvidae,Cyanocitta,Cyanocitta cristata
+Animalia,Chordata,Aves,Pelecaniformes,Fregatidae,Fregata,Fregata
+Animalia,Chordata,Chondrichthyes,Carcharhiniformes,Carcharhinidae,Galeocerdo,Galeocerdo Cuvier
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Capra,Capra aegagrus Hircus
+Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Cervus,Cervus canadensis
+Animalia,Chordata,Mammalia,Carnivora,Canidae,Canis,Canis latrans
+Animalia,Chordata,Mammalia,Carnivora,Otariidae,Arctocephalus,Arctocephalinae
+Animalia,Chordata,Mammalia,Carnivora,Ursidae,Ursus,Ursus arctos
+Animalia,Chordata,Mammalia,Cetacea,Balaenopteridae,Balaenoptera,Balsenoptera musculus
+Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis,Myotis lucifugus
+Animalia,Chordata,Mammalia,Diprotodontia,Macropodidae,Macropus,Macropus
+Animalia,Chordata,Mammalia,Monotremata,Tachyglossidae,Tachyglossus,Tachyglossus Aculeatus
+Animalia,Chordata,Mammalia,Primates,Callitrichidae,Saguinus,Saguinus Imperator
+Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Erythrocebus,Erythrocebus patas
+Animalia,Chordata,Mammalia,Proboscidea,Elephantidae,Elephas,Elephas maximus borneensis
+Animalia,Cnidaria,Hydrozoa,Anthoathecata,Oceaniidae,Turritopsis,Turritopsis dohrnii
+Animalia,Cnidaria,Hydrozoa,Siphonophorae,Physaliidae,Physalia,Physalia physalis
+Animalia,Hemichordata,Mammalia,Carnivora,Canidae,Canis,Canis lupus
+Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Tridacna,Tridacna gigas
+Animalia,Mollusca,Cephalopoda,Oegopsida,Cranchiidae,Mesonychoteuthis,Mesonychoteuthis hamiltoni
+Animalia,Mollusca,Cephalopoda,Vampyromorphida,Vampyroteuthidae,Vampyroteuthis,Vampyroteuthis infernalis
+Animalia,Mollusca,Gastropoda,Achatinoidea,Achatinidae,Achatina,Achatina fulica
+Animalia,Mollusca,Gastropoda,Nudibranchia,Opistobranches,Nudibranch,Nudibranchia
